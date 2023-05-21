@@ -21,7 +21,7 @@ format = '[$user: ]($style)'
 
 [os]
 format = '[\($symbol:$name\) ]($style)'
-style = "red"
+style = "#ff8800"
 disabled = false
 
 [os.symbols]
