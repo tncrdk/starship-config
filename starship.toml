@@ -20,13 +20,14 @@ style_user = "green"
 format = '[$user: ]($style)'
 
 [os]
-format = '[\($symbol:$name\) ]($style)'
+format = '[\($symbol :$name\) ]($style)'
 style = "red"
 disabled = false
 
 [os.symbols]
 Ubuntu = ""
 Windows = ""
+Fedora = ""
 
 [shell]
 fish_indicator = ''
