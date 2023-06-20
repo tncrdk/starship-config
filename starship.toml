@@ -30,7 +30,7 @@ Windows = ""
 Fedora = ""
 
 [shell]
-fish_indicator = ''
+fish_indicator = '󰈺'
 style = 'cyan'
 disabled = false
 
@@ -50,7 +50,7 @@ symbol = " "
 symbol = " "
 
 [directory]
-read_only = " "
+read_only = ' 🔒'
 
 [docker_context]
 symbol = " "
