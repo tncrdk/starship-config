@@ -20,7 +20,7 @@ style_user = "green"
 format = '[$user: ]($style)'
 
 [os]
-format = '[\($symbol:$name\) ]($style)'
+format = '[\($symbol :$name\) ]($style)'
 style = "#ff8800"
 disabled = false
 
